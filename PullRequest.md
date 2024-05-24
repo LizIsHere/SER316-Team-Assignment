@@ -6,5 +6,5 @@ Elizabeth Benton (embenton) - https://github.com/jhuckaba/Group7-Icebreaker-Stor
 
 Muhammad Arif (marif9) - https://github.com/jdwoodsi/story/compare/main...Muhammadarif009:story:patch-1
 
-Josh McKEnzie (jsmckenz) - https://github.com/MCobb321/Group11-SER316-SummerC-Icebreaker/pull/3
+Josh McKenzie (jsmckenz) - https://github.com/MCobb321/Group11-SER316-SummerC-Icebreaker/pull/3
 
